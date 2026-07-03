@@ -1,0 +1,626 @@
+{
+    "avatars": [
+        {
+            "id": "0",
+            "name": "Default",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/0.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/0.png"
+        },
+        {
+            "id": "1",
+            "name": "1",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/1.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/1.png"
+        },
+        {
+            "id": "2",
+            "name": "2",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/2.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/2.png"
+        },
+        {
+            "id": "3",
+            "name": "3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/3.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/3.png"
+        },
+        {
+            "id": "4",
+            "name": "4",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/4.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/4.png"
+        },
+        {
+            "id": "5",
+            "name": "5",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/5.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/5.png"
+        },
+        {
+            "id": "6",
+            "name": "6",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/6.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/6.png"
+        },
+        {
+            "id": "7",
+            "name": "7",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/7.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/7.png"
+        },
+        {
+            "id": "8",
+            "name": "8",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/8.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/8.png"
+        },
+        {
+            "id": "9",
+            "name": "9",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/9.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/9.png"
+        },
+        {
+            "id": "10",
+            "name": "10",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/10.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/10.png"
+        },
+        {
+            "id": "11",
+            "name": "11",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/11.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/11.png"
+        },
+        {
+            "id": "12",
+            "name": "12",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/12.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/12.png"
+        },
+        {
+            "id": "13",
+            "name": "13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/13.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/13.png"
+        },
+        {
+            "id": "14",
+            "name": "14",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/14.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/14.png"
+        },
+        {
+            "id": "15",
+            "name": "15",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/15.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/15.png"
+        },
+        {
+            "id": "16",
+            "name": "16",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/16.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/16.png"
+        },
+        {
+            "id": "17",
+            "name": "17",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/17.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/17.png"
+        },
+        {
+            "id": "18",
+            "name": "18",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/18.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/18.png"
+        },
+        {
+            "id": "19",
+            "name": "19",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/19.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/19.png"
+        },
+        {
+            "id": "20",
+            "name": "20",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/20.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/20.png"
+        },
+        {
+            "id": "21",
+            "name": "21",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/21.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/21.png"
+        },
+        {
+            "id": "22",
+            "name": "22",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/22.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/22.png"
+        },
+        {
+            "id": "23",
+            "name": "23",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/23.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/23.png"
+        },
+        {
+            "id": "24",
+            "name": "24",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/24.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/24.png"
+        },
+        {
+            "id": "25",
+            "name": "25",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/25.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/25.png"
+        },
+        {
+            "id": "26",
+            "name": "26",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/26.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/26.png"
+        },
+        {
+            "id": "27",
+            "name": "27",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/27.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/27.png"
+        },
+        {
+            "id": "28",
+            "name": "28",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/28.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/28.png"
+        },
+        {
+            "id": "29",
+            "name": "29",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/29.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/29.png"
+        },
+        {
+            "id": "30",
+            "name": "30",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/30.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/30.png"
+        },
+        {
+            "id": "31",
+            "name": "31",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/31.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/31.png"
+        },
+        {
+            "id": "32",
+            "name": "32",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/32.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/32.png"
+        },
+        {
+            "id": "33",
+            "name": "33",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/33.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/33.png"
+        },
+        {
+            "id": "34",
+            "name": "34",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/34.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/34.png"
+        },
+        {
+            "id": "35",
+            "name": "35",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/35.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/35.png"
+        },
+        {
+            "id": "36",
+            "name": "36",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/36.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/36.png"
+        },
+        {
+            "id": "37",
+            "name": "37",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/37.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/37.png"
+        },
+        {
+            "id": "38",
+            "name": "38",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/38.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/38.png"
+        },
+        {
+            "id": "39",
+            "name": "39",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/39.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/39.png"
+        },
+        {
+            "id": "40",
+            "name": "40",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/40.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/40.png"
+        },
+        {
+            "id": "41",
+            "name": "41",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/41.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/41.png"
+        },
+        {
+            "id": "42",
+            "name": "42",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/42.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/42.png"
+        },
+        {
+            "id": "43",
+            "name": "43",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/43.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/43.png"
+        },
+        {
+            "id": "44",
+            "name": "44",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/44.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/44.png"
+        },
+        {
+            "id": "45",
+            "name": "45",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/45.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/45.png"
+        },
+        {
+            "id": "46",
+            "name": "46",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/46.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/46.png"
+        },
+        {
+            "id": "47",
+            "name": "47",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/47.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/47.png"
+        },
+        {
+            "id": "48",
+            "name": "48",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/48.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/48.png"
+        },
+        {
+            "id": "49",
+            "name": "49",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/49.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/49.png"
+        },
+        {
+            "id": "50",
+            "name": "50",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/50.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/50.png"
+        },
+        {
+            "id": "51",
+            "name": "51",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/51.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/51.png"
+        },
+        {
+            "id": "52",
+            "name": "52",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/52.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/52.png"
+        },
+        {
+            "id": "53",
+            "name": "53",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/53.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/53.png"
+        },
+        {
+            "id": "54",
+            "name": "54",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/54.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/54.png"
+        },
+        {
+            "id": "55",
+            "name": "55",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/55.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/55.png"
+        },
+        {
+            "id": "56",
+            "name": "56",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/56.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/56.png"
+        },
+        {
+            "id": "57",
+            "name": "57",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/57.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/57.png"
+        },
+        {
+            "id": "58",
+            "name": "58",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/58.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/58.png"
+        },
+        {
+            "id": "59",
+            "name": "59",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/59.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/59.png"
+        },
+        {
+            "id": "60",
+            "name": "60",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/60.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/60.png"
+        },
+        {
+            "id": "61",
+            "name": "61",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/61.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/61.png"
+        },
+        {
+            "id": "62",
+            "name": "62",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/62.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/62.png"
+        },
+        {
+            "id": "63",
+            "name": "63",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/63.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/63.png"
+        },
+        {
+            "id": "64",
+            "name": "64",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/64.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/64.png"
+        },
+        {
+            "id": "65",
+            "name": "65",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/65.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/65.png"
+        },
+        {
+            "id": "66",
+            "name": "66",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/66.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/66.png"
+        },
+        {
+            "id": "67",
+            "name": "67",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/67.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/67.png"
+        },
+        {
+            "id": "68",
+            "name": "68",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/68.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/68.png"
+        },
+        {
+            "id": "69",
+            "name": "69",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/69.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/69.png"
+        },
+        {
+            "id": "70",
+            "name": "70",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/70.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/70.png"
+        },
+        {
+            "id": "71",
+            "name": "71",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/71.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/71.png"
+        },
+        {
+            "id": "72",
+            "name": "72",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/72.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/72.png"
+        },
+        {
+            "id": "73",
+            "name": "73",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/73.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/73.png"
+        },
+        {
+            "id": "74",
+            "name": "74",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/74.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/74.png"
+        },
+        {
+            "id": "75",
+            "name": "75",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/75.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/75.png"
+        },
+        {
+            "id": "76",
+            "name": "76",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/76.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/76.png"
+        },
+        {
+            "id": "77",
+            "name": "77",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/77.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/77.png"
+        },
+        {
+            "id": "78",
+            "name": "78",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/78.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/78.png"
+        },
+        {
+            "id": "79",
+            "name": "79",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/79.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/79.png"
+        },
+        {
+            "id": "80",
+            "name": "80",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/80.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/80.png"
+        },
+        {
+            "id": "81",
+            "name": "81",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/81.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/81.png"
+        },
+        {
+            "id": "82",
+            "name": "82",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/82.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/82.png"
+        },
+        {
+            "id": "83",
+            "name": "83",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/83.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/83.png"
+        },
+        {
+            "id": "84",
+            "name": "84",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/84.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/84.png"
+        },
+        {
+            "id": "85",
+            "name": "85",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/85.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/85.png"
+        },
+        {
+            "id": "86",
+            "name": "86",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/86.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/86.png"
+        },
+        {
+            "id": "87",
+            "name": "87",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/87.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/87.png"
+        },
+        {
+            "id": "88",
+            "name": "88",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/88.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/88.png"
+        },
+        {
+            "id": "89",
+            "name": "89",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/89.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/89.png"
+        },
+        {
+            "id": "90",
+            "name": "90",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/90.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/90.png"
+        },
+        {
+            "id": "91",
+            "name": "91",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/91.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/91.png"
+        },
+        {
+            "id": "92",
+            "name": "92",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/92.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/92.png"
+        },
+        {
+            "id": "93",
+            "name": "93",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/93.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/93.png"
+        },
+        {
+            "id": "94",
+            "name": "94",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/94.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/94.png"
+        },
+        {
+            "id": "95",
+            "name": "95",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/95.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/95.png"
+        },
+        {
+            "id": "96",
+            "name": "96",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/96.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/96.png"
+        },
+        {
+            "id": "97",
+            "name": "97",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/97.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/97.png"
+        },
+        {
+            "id": "98",
+            "name": "98",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/98.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/98.png"
+        },
+        {
+            "id": "99",
+            "name": "99",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/99.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/99.png"
+        },
+        {
+            "id": "100",
+            "name": "100",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/100.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/100.png"
+        }
+,
+        {
+            "id": "101",
+            "name": "101",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/101.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/101.png"
+        }
+,
+        {
+            "id": "102",
+            "name": "102",
+            "thumbnailUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/thumbnails/102.png",
+            "fullImageUrl": "https://raw.githubusercontent.com/astrolog7/Litera/main/102.png"
+        }
+
+
+    ]
+}
